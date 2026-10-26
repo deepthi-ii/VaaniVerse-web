@@ -161,10 +161,3 @@ Contributions, suggestions, bug reports, and ideas are welcome.
 4. Test your changes.
 5. Submit a pull request describing your contribution.
 
-## 📌 Project Status
-
-VaaniVerse is an evolving project. The current implementation and available features may change as development continues.
-
-## 📄 License
-
-No license has been specified yet. Add a `LICENSE` file before presenting the project as open source under a particular license.
